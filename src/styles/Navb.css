@@ -1,0 +1,16 @@
+h2{
+    color: #000000;
+    background-color:rgb(248, 249, 250) ;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: x-large;
+}
+.color{
+    background-color:rgb(248, 249, 250) ;   
+}
+a{
+    background-color:rgb(248, 249, 250) ;
+}
+.navbar-toggler-icon{
+    background-color:rgb(248, 249, 250) ;
+}

@@ -1,0 +1,42 @@
+*{
+    padding:  0px;
+    margin: 0px;
+    box-sizing: border-box;
+    background-color: rgb(43, 43, 43);
+    color: rgb(255, 255, 255);
+    font-family: 'Roboto', sans-serif;
+   
+}
+
+.heading{
+    margin-top: 2vmax;
+    margin-bottom:3vmax ;
+}
+h1{
+   font-size: 30px;
+    text-align: center;
+}
+
+.elem{
+    text-align: center;
+    margin-left: 12vmax;
+    margin-bottom:5vmax ;
+    
+
+}
+
+span{
+    color:red;
+}
+
+.btnn{
+    height: 7.5rem;
+    width: 14rem;
+}
+.card{
+    margin-right: 15px;
+}
+.card-body{
+    margin-right: 15px;
+    /* box-shadow:rgb(201, 66, 66) */
+}
